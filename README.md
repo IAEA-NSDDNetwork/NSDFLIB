@@ -5,6 +5,12 @@ NSDFLIB  is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.o
 
 Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GOV
 
+## Change history
+
+#### 2005-11
+
+Version 1.6g
+
 
 ## Disclaimer
 
